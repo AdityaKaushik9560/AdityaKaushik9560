@@ -34,9 +34,6 @@ and Python through online platforms to bring even more powerful data visualizati
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Adityakaushik-mrt&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 
 **Talking about Personal Stuffs:**
 
